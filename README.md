@@ -25,7 +25,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/people
 ```
 
-URL do deploy Heruko:
+URI do deploy Heruko:
 
 ```
 https://peopleapi-proj.herokuapp.com/api/v1/people
